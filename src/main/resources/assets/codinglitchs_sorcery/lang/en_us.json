@@ -1,0 +1,6 @@
+{
+  "spell.codinglitchs_sorcery.taunt": "Taunt",
+  "spell.codinglitchs_sorcery.taunt.guide": "Cast to take the aggro of nearby enemies.",
+
+  "ui.codinglitchs_sorcery.radius": "%d Radius"
+}
